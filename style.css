@@ -17,7 +17,10 @@ a:hover {
     text-decoration: none;
     cursor: pointer;
 }
-
+span {
+    font-size: 19px;
+    color: black;
+}
 #page-loading-blocs-notifaction {
     position: fixed;
     top: 0;
