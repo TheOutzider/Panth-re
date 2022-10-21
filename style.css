@@ -583,7 +583,6 @@ a[data-lightbox]:hover img {
     padding: 20px;
     color: #FFF;
     background: rgba(0, 0, 0, .5);
-    position: absolute;
     left: 15px;
     right: 15px;
     bottom: 5px;
